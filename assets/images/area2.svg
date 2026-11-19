@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Area 2 placeholder">
+<defs><pattern id="t" width="40" height="40" patternUnits="userSpaceOnUse"><rect width="40" height="40" fill="#11809E"/><path d="M40 0H0V40" fill="none" stroke="#3698B5" stroke-width="3"/></pattern></defs>
+<rect width="800" height="600" fill="url(#t)"/>
+<path d="M0 470 Q200 430 400 470 T800 470 V600 H0Z" fill="#1F4D3A" opacity=".85"/>
+<text x="400" y="290" font-family="system-ui,sans-serif" font-size="54" font-weight="700" fill="#fff" text-anchor="middle">Area 2</text>
+<text x="400" y="340" font-family="system-ui,sans-serif" font-size="22" fill="#fff" text-anchor="middle" opacity=".9">Photo placeholder</text>
+</svg>
